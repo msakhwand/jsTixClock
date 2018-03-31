@@ -7,4 +7,4 @@ echo "***************"
 free -m
 echo "****************************"
 
-ping -c4 www.yahoo.com
+ping -c4 www.google.com
